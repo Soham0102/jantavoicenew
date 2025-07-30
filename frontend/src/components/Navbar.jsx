@@ -8,7 +8,7 @@ const NavBar = () => {
       
       {/* Left section: JANTA VOICE + image */}
       <div className="flex items-center space-x-3">
-        <img src="/images/preamble.png" alt="Preamble" className="h-10 w-10 object-contain" />
+        <img src="/images/preamble.png" className="h-10 w-10 object-contain" />
         <h1 className="text-2xl font-extrabold tracking-wide">JANTA VOICE</h1>
       </div>
 
